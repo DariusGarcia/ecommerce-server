@@ -6,7 +6,7 @@
 
 ## Description
 
-This express app acts as a server an ecommerce application tht allows users to view all products, categories, and product tags.
+This express app acts as a server an ecommerce application that allows users to view all products, categories, and product tags.
 
 - [x] Users can update products, tags, and categories.
 - [x] Users can delete products, tags, and categories.
